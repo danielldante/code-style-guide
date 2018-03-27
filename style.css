@@ -1,0 +1,15 @@
+/* Declaração de variável com Stylus */
+.btn-2 {
+  color: #000;
+}
+/* Criando uma função com Stylus */
+.container {
+  width: 300px;
+  height: 100px;
+}
+/* Importando Módulos Separados com Stylus (será utilizado juntamente com Atomic Design) */
+.module-component {
+  width: 980px;
+  height: 400px;
+  background: #000;
+}
